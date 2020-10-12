@@ -1,7 +1,7 @@
 # kaggle_m5_accuracy
 kaggle での M5 -Accuracy の作業ノート
 
-※ メモリがかなり必要 ( 64GB じゃ無理)
+※ メモリがかなり必要(64GB じゃ無理)
 
 # Setup
 以下のページからデータセットをダウンロード<br>
